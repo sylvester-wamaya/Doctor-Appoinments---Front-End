@@ -97,7 +97,7 @@ The final number of team members is 4. View the details of team members [here](#
 
  ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://scintillating-marshmallow-856784.netlify.app/)
+- [Live Demo](https://unrivaled-toffee-4e98df.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
